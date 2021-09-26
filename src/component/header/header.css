@@ -1,0 +1,37 @@
+.header{
+    margin: 0px;
+background-image: url("https://h2o-digital.com/wp-content/uploads/2015/09/websites-why-you-should-never-use-under-construction-pages.jpg");
+height: 400px;
+padding-bottom: 20px;
+margin-bottom: 50px;
+}
+
+.logo{
+    /* margin-top: 100px; */
+    color: white;
+    padding-top: 50px;
+    text-align: left;
+    padding-left: 100px;
+    /* background-color: yellow; */
+    /* width: 30%; */
+}
+
+
+
+    .paragraph{
+        margin-top: 50px;
+        margin-left: 100px;
+        text-align: left;
+        background-color: rgba(19, 18, 18, 0.452);
+        width: 500px;
+        color: rgb(2, 225, 255);
+        padding: 20px;
+        border-radius: 5px;
+        
+    }
+
+    .budget{
+        color: rgb(245, 190, 8);
+        font-size: 50px;
+        font-weight: bolder;
+    }

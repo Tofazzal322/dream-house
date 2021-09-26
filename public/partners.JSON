@@ -1,0 +1,148 @@
+ 
+ [
+     {
+      "id":"1",
+      "name":"Mohammad Mamun Miha",
+      "live":"Bangladesh",
+      "phone":"01645001624",
+      "email":"mrmmng@gmail.com",
+      "address":"Chowria,Nabinagar",
+      "parmanentAddress":"Village +post:chowria,p s:nabinagar, distric:brahmanbaria",
+      "position":"Chairman",
+      "amount":"55000",
+      "picture":"https://i.ibb.co/8Y7RH0h/player-1.jpg"
+   },
+   {
+      "id":"2",
+      "name":"Mohammad Delwar Hossain ",
+      "live":"Singapur",
+      "phone":"+6582316884",
+      "email":"arefin709@gmail.com",
+      "address":"House No:21,Road No:4,Hirajil",
+      "parmanentAddress":"House No:21,Road No:4,Hirajil,Siddhirganj,Siddhirganj,Narayangonj,Bangladesh ",
+      "position":"Vice-chairman",
+      "amount":"55000",
+      "picture":"https://i.ibb.co/vXPt93M/player-2.jpg"
+   },
+   {
+      "id":"3",
+      "name":"MD TOWHIDUR RAHMAN ",
+      "live":"Spain",
+      "phone":"01623097135",
+      "email":"towhidur450@gmail.com",
+      "address":"Chowria,Nabinagar",
+      "parmanentAddress":"Chowria,Nabinagar,Brahmanbaria,Bangladesh ",
+      "position":"Vice-chairman",
+      "amount":"50000",
+      "picture":"https://i.ibb.co/P9BPfNn/MD-TOWHIDUR-RAHMAN.jpg"
+   },
+   {
+      "id":"4",
+      "name":"Mohammad Arnob Mostazir",
+      "live":"United Kingdom",
+      "phone":"+447405119357",
+      "email":"arnobmostazir@gmail.com",
+      "address":"103/A gojmohol, sikaritola",
+      "parmanentAddress":"103/A gojmohol, sikaritola, Hazaribagh, Dhaka-1209",
+      "position":"Finance Manager",
+      "amount":"60000",
+      "picture":"https://i.ibb.co/rbXWy7D/player-5.jpg"
+   },
+   {
+      "id":"5",
+      "name":"Tofazzal",
+      "live":"Muscat, Oman",
+      "phone":"+968 93554255",
+      "email":"topuahammed322@gmail.com",
+      "address":"Mymensingh",
+      "parmanentAddress":"Dhobaura,Mymensingh",
+      "position":"Mechanical Engineer",
+      "amount":"30000",
+      "picture":"https://i.ibb.co/C0StJz3/12115467-900654660026415-277105587286767643-n.jpg"
+   },
+   {
+      "id":"6",
+      "name":"Farbiz Hossain Babul ",
+      "live":"Muscat, Oman",
+      "phone":"+96894878727",
+      "email":"mdfarbizbabu79@gmail.com",
+      "address":"Lakshipur ",
+      "parmanentAddress":"Comilla, Lakshipur",
+      "position":"Sales Executive",
+      "amount":"30000",
+      "picture":"https://i.ibb.co/j6tfsM4/player-6.jpg"
+   },
+   {
+      "id":"7",
+      "name":"Atikur rahman",
+      "live":"Rome,italy",
+      "phone":"00393279424911",
+      "email":"atikurrahman4090@gmail.com",
+      "address":"Chowria,Nabinagar",
+      "parmanentAddress":"Chowria,Nabinagar,brahmanbaria ",
+      "position":"Accountant",
+      "amount":"55000",
+      "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdT-CMjPc50R-jKEvJl_rcn3mBMvkcUwERg&usqp=CAU"
+   },
+   {
+      "id":"8",
+      "name":"Sk nasir",
+      "live":"Abu Dhabi ",
+      "phone":"0508317261",
+      "email":"sknasir66755@gmil.com",
+      "address":"Demra ",
+      "parmanentAddress":"Demra, Dhaka",
+      "position":"HR Director",
+      "amount":"60000",
+      "picture":"https://i.ibb.co/6X3zpxJ/player-8.jpg"
+   },
+   {
+      "id":"9",
+      "name":"Rahad Asfaquzzaman",
+      "live":"Singapore ",
+      "phone":"+6584249658",
+      "email":"rahatkhan1781993@gmail.com",
+      "address":"Khilkhet",
+      "parmanentAddress":"Khilkhet, Dhaka",
+      "position":"Operation Manager",
+      "amount":"110000",
+      "picture":"https://i.ibb.co/gy5fVnz/5-DED48-C6-1-DF1-4-B46-B1-B6-1-D4653-CA2-A77-Rahat-Khan.jpg"
+   },
+   {
+      "id":"10",
+      "name":"Md Saidul Islam",
+      "live":"Bangladesh",
+      "phone":"01623097135",
+      "email":"sinahid69@gmail.com",
+      "address":"Chowria, Nabinagar",
+      "parmanentAddress":"Chowria, Nabinagar, B-Baria",
+      "position":"Purchase Manager",
+      "amount":"30000",
+      "picture":"https://i.ibb.co/qy0dBP4/0-ECD7-A57-F792-4-F23-A663-38-F3-F5-D8-CB34-S-I-Nahid.jpg"
+   },
+   {
+      "id":"11",
+      "name":"MOHAMMAD SURUZZAMAN",
+      "live":"SOUTH AFRICA",
+      "phone":"00270610046980",
+      "email":"onlysrashed@gmail.com",
+      "address":"73 KRUIS STREET,  RAYBEN MANSION,  JOHANNESBURG, SOUTH AFRICA. ",
+      "parmanentAddress":"PAINADI,  HOUSE - 200, ROAD - 04, BLOCK - C, WORD - 01, MIZMIZI, SIDDHIRGANJ, NARAYANGANJ.",
+      "position":"QHSE Manager",
+      "amount":"60000",
+      "picture":"https://i.ibb.co/HgHvVC9/IMG-20210919-121141-SR-BD.jpg"
+   },
+   {
+      "id":"12",
+      "name":"Nahid-Towhid",
+      "live":"Bangladesh",
+      "phone":"01623097135",
+      "email":"sinahid69@gmail.com",
+      "address":"Chowria,Nabinagar",
+      "parmanentAddress":"Chowria,Nabinagar, B-Baria",
+      "position":"Civil Engineer",
+      "amount":"60000",
+      "picture":"https://i.ibb.co/WBmjx0S/1-E1-B4-F4-C-2-E9-A-4401-BB46-4-D5-DE4-A2-B262-S-I-Nahid.jpg"
+   }
+   
+ ]
